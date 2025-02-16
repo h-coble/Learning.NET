@@ -1,2 +1,2 @@
 # Learning.NET
-A quick and simple start into the .NET framework and Docker containers using C#.
+A quick and simple personal start into the .NET framework and Docker containers using C#.
